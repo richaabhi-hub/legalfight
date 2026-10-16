@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://legalfight.co.in/sitemap.xml
